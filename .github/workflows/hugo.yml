@@ -1,5 +1,5 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: Deploy Hugo site to Pages
+# Build the documentation and Helm repository and deploy them to GitHub Pages.
+name: Deploy documentation and Helm charts
 
 on:
   # Runs on pushes targeting the default branch
